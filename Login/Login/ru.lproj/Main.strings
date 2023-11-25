@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "Signup here"; ObjectID = "Ne0-GV-RSI"; */
+"Ne0-GV-RSI.normalTitle" = "Signup here";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "O7U-N3-Yeb"; */
+"O7U-N3-Yeb.placeholder" = "password";
+
+/* Class = "UILabel"; text = "Don`t have an account?"; ObjectID = "UPB-ae-tGS"; */
+"UPB-ae-tGS.text" = "Don`t have an account?";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "d3t-S2-HRF"; */
+"d3t-S2-HRF.normalTitle" = "LOGIN";
+
+/* Class = "UITextField"; placeholder = "e-mail"; ObjectID = "gNd-xp-iO7"; */
+"gNd-xp-iO7.placeholder" = "e-mail";
+
+/* Class = "UITextField"; text = "How are you?"; ObjectID = "klc-ji-8TT"; */
+"klc-ji-8TT.text" = "How are you?";
